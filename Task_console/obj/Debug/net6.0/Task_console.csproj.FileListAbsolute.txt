@@ -1,0 +1,15 @@
+C:\Users\lexa0\OneDrive\Рабочий стол\gbtask\Task_console\bin\Debug\net6.0\Task_console.exe
+C:\Users\lexa0\OneDrive\Рабочий стол\gbtask\Task_console\bin\Debug\net6.0\Task_console.deps.json
+C:\Users\lexa0\OneDrive\Рабочий стол\gbtask\Task_console\bin\Debug\net6.0\Task_console.runtimeconfig.json
+C:\Users\lexa0\OneDrive\Рабочий стол\gbtask\Task_console\bin\Debug\net6.0\Task_console.dll
+C:\Users\lexa0\OneDrive\Рабочий стол\gbtask\Task_console\bin\Debug\net6.0\Task_console.pdb
+C:\Users\lexa0\OneDrive\Рабочий стол\gbtask\Task_console\obj\Debug\net6.0\Task_console.csproj.AssemblyReference.cache
+C:\Users\lexa0\OneDrive\Рабочий стол\gbtask\Task_console\obj\Debug\net6.0\Task_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lexa0\OneDrive\Рабочий стол\gbtask\Task_console\obj\Debug\net6.0\Task_console.AssemblyInfoInputs.cache
+C:\Users\lexa0\OneDrive\Рабочий стол\gbtask\Task_console\obj\Debug\net6.0\Task_console.AssemblyInfo.cs
+C:\Users\lexa0\OneDrive\Рабочий стол\gbtask\Task_console\obj\Debug\net6.0\Task_console.csproj.CoreCompileInputs.cache
+C:\Users\lexa0\OneDrive\Рабочий стол\gbtask\Task_console\obj\Debug\net6.0\Task_console.dll
+C:\Users\lexa0\OneDrive\Рабочий стол\gbtask\Task_console\obj\Debug\net6.0\refint\Task_console.dll
+C:\Users\lexa0\OneDrive\Рабочий стол\gbtask\Task_console\obj\Debug\net6.0\Task_console.pdb
+C:\Users\lexa0\OneDrive\Рабочий стол\gbtask\Task_console\obj\Debug\net6.0\Task_console.genruntimeconfig.cache
+C:\Users\lexa0\OneDrive\Рабочий стол\gbtask\Task_console\obj\Debug\net6.0\ref\Task_console.dll
